@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I'm Dwiza
+
+🎓 MCA (AI & ML) | BCA Grad  
+💻 Web Dev Enthusiast | Future AI Developer  
+✨ I love turning ideas into real projects  
+🖋️ Published Poet | Featured in 10+ books  
+🔍 Currently building projects and learning daily
+
+📫 Reach me at: dwiza0523@gmail.com  
